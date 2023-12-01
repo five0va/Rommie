@@ -30,7 +30,7 @@
     </style>
 </head>
 <body>
-    <img src="path_to_your_image.jpg" alt="Rommie's Finance Photo">
+    <img src="RommiesFinancePhoto.png" alt="Rommie's Finance Photo">
     <div class="content">
         <h2>Spend</h2>
         <p>Let's be real, if I had pockets, they'd be full of gadgets and gizmos aplenty. I'd splurge on the latest tech to keep me sharp and shiny. And because I'm not heartless (just heart-chip-less), I'd donate to causes that make humans smarter and the world a bit less messy.</p>
