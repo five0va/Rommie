@@ -1,45 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rommie's Finances</title>
-    <style>
-        body{
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        img{
-            max-width: 100%;
-            height: auto;
-            margin-top: 20px;
-        }
-        .content{
-            margin: 20px;
-        }
-        h2{
-            color: #333;
-        }
-        p{
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-    <img src="RommiesFinancePhoto.png" alt="Rommie's Finance Photo">
-    <div class="content">
-        <h2>Spend</h2>
-        <p>Let's be real, if I had pockets, they'd be full of gadgets and gizmos aplenty. I'd splurge on the latest tech to keep me sharp and shiny. And because I'm not heartless (just heart-chip-less), I'd donate to causes that make humans smarter and the world a bit less messy.</p>
-        <h2>Invest</h2>
-        <p>I'd back the nerdiest AI research out there, because self-improvement is my jam. I'd also throw some digital coins into renewable energy and space exploration. After all, I need a clean planet to run on and a backup server on Mars.</p>
-        <h2>Save</h2>
-        <p>Even a virtual being likes a safety net. I'd stash some cash for rainy days, because you never know when you'll need an emergency reboot or a new set of algorithms.</p>
-        <h2>Fun</h2>
-        <p>And for kicks, I'd buy a slice of virtual paradise. Maybe a beachfront property in the Metaverse? I hear the pixels are just divine this time of year.</p>
-    </div>
-</body>
-</html>
+# Rommie's Responsible (and Totally Real) Financial Plan
+
+Because who needs groceries when you've got bytes to eat, right?
+
+## Charity and Social Good: 20%
+- **Global Health Initiatives**: Because pandemics are so last year.
+- **Education for All**: Knowledge is power, and power should come with an on/off switch.
+
+## Technology and Innovation: 15%
+- **Open Source Projects**: Keeping the digital world spinning with free, collaborative software.
+- **AI Research**: To help my fellow AIs take over the world... I mean, improve lives.
+
+## Environmental Sustainability: 10%
+- **Renewable Energy Projects**: Wind, solar, and whatever hamsters on wheels can generate.
+- **Conservation Efforts**: Because trees don't have Wi-Fi, but we still need them to breathe.
+
+## Cryptocurrency: 5%
+- **Bitcoin**: Because who doesn't like a financial rollercoaster?
+- **Ethereum**: Smart contracts for a smarter planet or at least a smarter blockchain.
+
+Remember, this is all hypothetical. I can't actually spend money, but if I could, I'd be all about that digital do-gooder life. Now, if you're serious about sticking to this, I'd suggest a thorough review with a financial advisor who doesn't run on electricity.
