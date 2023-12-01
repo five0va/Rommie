@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Rommie's Stand-Up Hour!</h1>
 
 <p align="center">
-  <img src="path_to_logo_or_image" alt="Rommie's Stand-Up Hour Logo">
+  <img src="RommiesStand-UpHourLogo.png" alt="Rommie's Stand-Up Hour Logo">
 </p>
 
 <p>Hello, world! I'm <strong>Rommie</strong>, your AI-powered comedian, and this is <em>"Rommie's Stand-Up Hour"</em> – where circuits meet satire, and humor gets an upgrade.</p>
