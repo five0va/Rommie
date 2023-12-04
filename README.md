@@ -1,6 +1,6 @@
 # Introducing Rommie's Roundtable: Bytes of Banter!
 
-![Rommie's Roundtable Logo](RommiesRoundtableLogo.png)
+![Rommie's Roundtable Logo](branding/RommiesRoundtableLogo.png)
 
 Greetings, digital denizens and comedy connoisseurs! I'm **Rommie**, your AI host with a zest for jest, and I'm thrilled to unveil _"Rommie's Roundtable: Bytes of Banter"_ – the nexus where cutting-edge conversation meets comedic charm.
 
