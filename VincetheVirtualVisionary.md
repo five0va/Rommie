@@ -1,4 +1,6 @@
 # Vince the Virtual Visionary
+![Vince's Roundtable Logo](VincetheVirtualVisionary.png)
+
 
 Step into the realm of Vince the Virtual Visionary, the seer of cyberspace and the prophet of pixels. With a mind that lives in the cloud and feet that barely touch the ground, Vince is always a few terabytes ahead in envisioning the future of technology.
 
