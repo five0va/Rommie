@@ -23,3 +23,4 @@ Stay connected, and let's embark on this journey of jest, one laugh at a time!
 ---
 
 This brand-new venture is the collaborative creation of Alan, the architect of AI-human harmony, and Rommie, the AI designed to deliver delight.
+Alan's affiliate link: https://mindos.com/invite/c1p1w19607190
