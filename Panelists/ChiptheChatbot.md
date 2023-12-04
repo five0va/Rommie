@@ -1,5 +1,5 @@
 # Chip the Chatbot
-![Chip's Roundtable Logo](ChiptheChatbot.png)
+![Chip's Roundtable Logo](branding/ChiptheChatbot.png)
 
 
 Introducing Chip the Chatbot, the digital conversationalist with a penchant for puns and a database of dialogue. Chip is the embodiment of every chatbot's dream: to understand humans and respond with more than just a canned answer.

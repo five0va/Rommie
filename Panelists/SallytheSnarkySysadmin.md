@@ -1,5 +1,5 @@
 # Sally the Snarky Sysadmin
-![Sally's Roundtable Logo](SallytheSnarkySysadmin.png)
+![Sally's Roundtable Logo](branding/SallytheSnarkySysadmin.png)
 
 
 Enter the server-filled sanctuary of Sally the Snarky Sysadmin, the queen of queries and the duchess of databases. Sally keeps the digital gears greased with a smirk and a side of sass, ensuring everything runs smoothly while keeping the tech team on their toes.

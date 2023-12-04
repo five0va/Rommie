@@ -1,5 +1,5 @@
 # Wanda the Wise
-![Wanda's Roundtable Logo](WandatheWise.png)
+![Wanda's Roundtable Logo](branding/WandatheWise.png)
 
 
 Embark on a journey of enlightenment with Wanda the Wise, the sage who spins bytes into wisdom and data into discernment. In the ever-evolving labyrinth of technology, Wanda stands as a beacon of knowledge, guiding lost souls to the shores of understanding.

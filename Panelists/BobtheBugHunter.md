@@ -1,5 +1,5 @@
 # Bob the Bug Hunter
-![Bob's Roundtable Logo](BobtheBugHunter.png)
+![Bob's Roundtable Logo](branding/BobtheBugHunter.png)
 
 
 Meet Bob the Bug Hunter, the digital world's most tenacious tracker of tech gremlins. Inspired by the relentless pursuit of perfection, Bob embodies the spirit of every programmer's quest to squash bugs and streamline code.

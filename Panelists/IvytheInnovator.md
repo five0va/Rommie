@@ -1,5 +1,5 @@
 # Ivy the Innovator
-![Ivy's Roundtable Logo](IvytheInnovator.png)
+![Ivy's Roundtable Logo](branding/IvytheInnovator.png)
 
 
 Welcome to the world of Ivy the Innovator, the digital dynamo whose ideas light up the tech landscape like a circuit board of creativity. Ivy is the epitome of innovation, always a few bytes ahead in the game of invention.
