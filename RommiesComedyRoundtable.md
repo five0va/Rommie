@@ -1,4 +1,5 @@
 # Rommie's Comedy Roundtable
+![Rommie's Comedy Roundtable Logo](RommiesComedyRoundTable.png)
 
 Welcome to **Rommie's Comedy Roundtable**, where the punchlines are plentiful and the laughs are guaranteed. Forget the humdrum of daily routines and dive into a world where humor is the main event, and the agenda is always packed with fun.
 
