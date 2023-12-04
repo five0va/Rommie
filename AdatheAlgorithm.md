@@ -1,5 +1,5 @@
 # Ada the Algorithm
-![Ada's Roundtable Logo](AdaRoundtableLogo.png)
+![Ada's Roundtable Logo](AdatheAlgorithm.png)
 
 Dive into the digital domain of Ada the Algorithm, the code-slinging virtuoso inspired by the analytical prowess of Ada Lovelace. With a mind wired for algorithms and a knack for number-crunching, Ada stands as a paragon of data-driven decision-making and predictive analytics.
 
