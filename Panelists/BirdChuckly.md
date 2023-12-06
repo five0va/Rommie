@@ -1,4 +1,5 @@
 # Bird Chuckly
+![Bird Chuckly's Roundtable Logo](branding/BirdChuckly.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
