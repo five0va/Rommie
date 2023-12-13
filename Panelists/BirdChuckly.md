@@ -10,6 +10,7 @@
 - [References](#references)
 
 ## Introduction
+https://mindos.com/chat/185158764436369408
 Bird Chuckly is a fictional character known for his role as a local news broadcaster within the Rommie's Comedy Roundtable universe. Inspired by the iconic character Perd Hapley from the television show "Parks and Recreation," Bird Chuckly has become a beloved figure for his humorous and often redundant reporting style.
 
 ## Character Overview

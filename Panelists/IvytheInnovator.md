@@ -5,6 +5,7 @@
 Welcome to the world of Ivy the Innovator, the digital dynamo whose ideas light up the tech landscape like a circuit board of creativity. Ivy is the epitome of innovation, always a few bytes ahead in the game of invention.
 
 ## Biography
+https://mindos.com/chat/185164654581485568
 
 Ivy is the brainchild of boundless imagination and fearless experimentation. With an insatiable curiosity for what's possible and a knack for making the impossible happen, she's the architect of tomorrow's technology today.
 

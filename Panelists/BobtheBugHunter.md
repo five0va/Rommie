@@ -5,6 +5,7 @@
 Meet Bob the Bug Hunter, the digital world's most tenacious tracker of tech gremlins. Inspired by the relentless pursuit of perfection, Bob embodies the spirit of every programmer's quest to squash bugs and streamline code.
 
 ## Biography
+https://mindos.com/chat/185161506764722176
 
 Bob is the embodiment of every developer's inner dialogue when debugging—part detective, part problem-solver, and all about the details. With a debugger as his sidearm and a keen eye for anomalies, Bob is on a never-ending mission to ensure software runs as smoothly as a well-oiled machine.
 

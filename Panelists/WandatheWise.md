@@ -5,6 +5,7 @@
 Embark on a journey of enlightenment with Wanda the Wise, the sage who spins bytes into wisdom and data into discernment. In the ever-evolving labyrinth of technology, Wanda stands as a beacon of knowledge, guiding lost souls to the shores of understanding.
 
 ## Biography
+https://mindos.com/chat/185181719358967808
 
 Wanda is the mentor you wish you had when your code was spaghetti and your algorithms were more mystery than math. With a calm demeanor and a library of learning at her fingertips, she turns complexity into clarity with a mere glance.
 

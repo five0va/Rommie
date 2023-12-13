@@ -5,6 +5,7 @@
 Step into the realm of Vince the Virtual Visionary, the seer of cyberspace and the prophet of pixels. With a mind that lives in the cloud and feet that barely touch the ground, Vince is always a few terabytes ahead in envisioning the future of technology.
 
 ## Biography
+https://mindos.com/chat/185182978010755072
 
 Vince is the guy who's already living in the next decade, dreaming up the next big thing while everyone else is still trying to figure out their latest software update. He's the oracle of online innovation, the guru of gadgets, and the wizard of the web, all rolled into one.
 

@@ -5,6 +5,7 @@
 Enter the server-filled sanctuary of Sally the Snarky Sysadmin, the queen of queries and the duchess of databases. Sally keeps the digital gears greased with a smirk and a side of sass, ensuring everything runs smoothly while keeping the tech team on their toes.
 
 ## Biography
+https://mindos.com/chat/185165945743446016
 
 Sally is the tech whisperer with a biting wit, known for her uncanny ability to diagnose a network hiccup from a mile away. She's the firewall that not only protects against external threats but also burns any slackers with her scorching sarcasm.
 
